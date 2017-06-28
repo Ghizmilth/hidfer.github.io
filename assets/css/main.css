@@ -1,7 +1,8 @@
 body {
   margin: 0 auto;
-  background: linear-gradient(0deg, #010301 40%, #5595D9 60%) no-repeat;
+  background: linear-gradient(0deg, #010301, #5595D9) no-repeat;
   }
 
-  h1 {
+  .page-wrapper {
+    display: block;    
   }
