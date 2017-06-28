@@ -1,6 +1,10 @@
 body {
-  position: relative;
+  margin: 0 auto;
   background-color: -webkit-linear-gradient(circle at default, #33ccff, #ffffff);
   background-color: -moz-linear-gradient(circle at default, #33ccff, #ffffff);
   background-color: linear-gradient(circle at default, #33ccff, #ffffff);
+  }
+
+  h1 {
+    font-size: 36px;
   }
