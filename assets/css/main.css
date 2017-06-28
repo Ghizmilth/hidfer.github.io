@@ -1,3 +1,6 @@
 body {
+  position: relative;
+  background-color: -webkit-linear-gradient(circle at default, #33ccff, #ffffff);
+  background-color: -moz-linear-gradient(circle at default, #33ccff, #ffffff);
   background-color: linear-gradient(circle at default, #33ccff, #ffffff);
   }
