@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background: linear-gradient(0deg, #5595D9, #010301) no-repeat;
+  background: linear-gradient(0deg, #010301 40%, #5595D9 60%) no-repeat;
   }
 
   h1 {
