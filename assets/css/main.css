@@ -1,3 +1,5 @@
 html {
-  background-color: radial-gradient(circle, #33ccff, #ffffff);
+  background-color: linear-gradient(circle at default, #33ccff, #ffffff);
   }
+
+  
