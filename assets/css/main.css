@@ -3,20 +3,20 @@ body {
   background: linear-gradient(0deg, #010301, #5595D9) no-repeat;
   }
 
-  .page-wrapper {
+  .pageWrapper {
     display: block;
     text-align: center;
     background-image: url('assets/imgs/sf_skyline.jpg');
   }
 
-ul {
+.mainNav {
   text-align: right;
   padding: 20px;
   background-color: white;
   margin: 0;
 }
 
-#nav-list li{
+#navList li{
   display: inline;
   padding: 20px;
   text-align: center;
