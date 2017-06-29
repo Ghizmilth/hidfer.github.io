@@ -6,7 +6,7 @@ body {
   .pageWrapper {
     display: block;
     text-align: center;
-    background-image: url(assets/imgs/sf_skyline.jpg);
+    background-image: url(assets/imgs/sf-skyline.jpg);
     background-position: center;
     height: 750px;
     width: 750px;
