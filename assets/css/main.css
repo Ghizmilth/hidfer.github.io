@@ -6,7 +6,7 @@ body {
   .pageWrapper {
     display: block;
     text-align: center;
-    background: url("/assets/imgs/sf_skyline.jpg");
+    background: url("assets/imgs/sf_skyline.jpg");
   }
 
 .mainNav {
