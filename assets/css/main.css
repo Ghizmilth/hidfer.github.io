@@ -1,12 +1,12 @@
 body {
   margin: 0 auto;
-  background: linear-gradient(0deg, #010301, #5595D9) no-repeat;
+  background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;
   }
 
   .pageWrapper {
     display: block;
     text-align: center;
-    background: url('assets/imgs/sf_skyline.jpg');
+    background: url("assets/imgs/sf_skyline.jpg");
   }
 
 .mainNav {
