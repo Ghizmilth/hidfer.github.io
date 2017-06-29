@@ -1,6 +1,7 @@
 body {
   margin: 0 auto;
-  background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;
+  /*background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;*/
+background-image: url(assets/imgs/crayons-in-hands.jpg)
   }
 
   .pageWrapper {
