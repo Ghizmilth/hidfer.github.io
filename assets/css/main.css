@@ -4,11 +4,17 @@ body {
 background-image: url('assets/imgs/crayons-in-hands.jpg')
   }
 
+h1 {
+  position: absolute;
+}
+
+img {
+  position: relative;
+}
   .pageWrapper {
     display: block;
     text-align: center;
     position: absolute;
-    background-image: url(assets/imgs/sf-skyline.jpg);
     background-position: center;
     height: 750px;
     width: 750px;
