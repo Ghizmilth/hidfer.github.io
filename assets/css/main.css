@@ -8,8 +8,15 @@ body {
     text-align: center;
   }
 
-#nav-list{
+ul {
+  text-align: right;
+}
+
+#nav-list li{
   display: inline;
   padding: 20px;
   text-align: center;
+  margin: 10px;
+  background-color: white;
+
 }
