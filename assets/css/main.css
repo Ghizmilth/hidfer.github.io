@@ -24,3 +24,7 @@ body {
   background-color: white;
 
 }
+
+.infoBlocks {
+  column-count: 4;
+}
