@@ -10,6 +10,9 @@ body {
 
 ul {
   text-align: right;
+  padding: 20px;
+  background-color: white;
+  margin: 0;
 }
 
 #nav-list li{
