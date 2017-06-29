@@ -4,5 +4,12 @@ body {
   }
 
   .page-wrapper {
-    display: block;    
+    display: block;
+    text-align: center;
   }
+
+.nav-list{
+  display: inline;
+  padding: 20px;
+  text-align: left;
+}
