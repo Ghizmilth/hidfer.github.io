@@ -6,6 +6,7 @@ body {
   .page-wrapper {
     display: block;
     text-align: center;
+    background-image: "assets/imgs/sf_skyline.jpg";
   }
 
 ul {
