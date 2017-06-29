@@ -27,4 +27,32 @@ body {
 
 #about {
   float: left;
+  height: 350px;
+  width: 350px;
+  margin: 15px;
+  border: 1px solid black;
+}
+
+#portfolio {
+  float: left;
+height: 350px;
+width: 350px;
+margin: 15px;
+border: 1px solid black;
+}
+
+#thingsILove {
+  float: left;
+height: 350px;
+width: 350px;
+margin: 15px;
+border: 1px solid black;
+}
+
+#sayHi {
+  float: left;
+height: 350px;
+width: 350px;
+margin: 15px;
+border: 1px solid black;
 }
