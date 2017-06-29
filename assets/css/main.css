@@ -25,6 +25,6 @@ body {
 
 }
 
-.infoBlocks {
-  column-count: 4;
+#about {
+  float: left;
 }
