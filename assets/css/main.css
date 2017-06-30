@@ -1,7 +1,7 @@
 body {
   margin: 0 auto;
-  /*background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;*/
-background-image: url('assets/imgs/crayons-in-hands.jpg')
+  background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;
+
   }
 
 h1 {
@@ -82,7 +82,7 @@ img {
 
 #portfolio {
   float: left;
-height: 350px;
+height: 150px;
 width: 350px;
 margin: 15px;
 border: 1px solid black;
@@ -91,7 +91,7 @@ border-radius: 20px;
 
 #thingsILove {
   float: left;
-height: 350px;
+height: 150px;
 width: 350px;
 margin: 15px;
 border: 1px solid black;
@@ -100,9 +100,14 @@ border-radius: 20px;
 
 #sayHi {
   float: left;
-height: 350px;
+height: 150px;
 width: 350px;
 margin: 15px;
 border: 1px solid black;
 border-radius: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
 }
