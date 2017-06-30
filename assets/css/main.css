@@ -12,7 +12,13 @@ img {
   position: relative;
   border: 1px solid black;
   border-radius: 20px;
+  opacity: 0.5;
 }
+
+#myPhoto {
+    opacity: 1;
+}
+
   .pageWrapper {
     display: block;
     text-align: center;
