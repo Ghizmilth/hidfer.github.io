@@ -1,7 +1,10 @@
+html {
+  max-height: 100px;
+}
 body {
   margin: 0 auto;
-  background: linear-gradient(0deg, #FFFFFF, #5595D9) no-repeat;
-
+  background: linear-gradient(0deg, rgba(192,192,192,1) 0%, rgba(243,243,243,1) 81%, rgba(255,255,255,1) 99%)
+  background-attachment: fixed;
   }
 
 h1 {
@@ -78,6 +81,7 @@ img {
     width: 750px;
     border: 1px solid black;
     border-radius: 20px;
+    background: white;
 }
 
 #portfolio {
@@ -87,6 +91,7 @@ width: 350px;
 margin: 15px;
 border: 1px solid black;
 border-radius: 20px;
+background: white;
 }
 
 #thingsILove {
@@ -96,6 +101,7 @@ width: 350px;
 margin: 15px;
 border: 1px solid black;
 border-radius: 20px;
+background: white;
 }
 
 #sayHi {
@@ -105,6 +111,7 @@ width: 350px;
 margin: 15px;
 border: 1px solid black;
 border-radius: 20px;
+background: white;
 }
 
 ul {
