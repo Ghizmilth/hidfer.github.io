@@ -12,6 +12,9 @@ h1 {
   position: relative;
 }
 
+h1, h2 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
 img {
   position: relative;
   border: 1px solid black;
